@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/tushar/dev/franklywebapp/app/scripts'
+let g:netrw_dirhist_2='/Users/tushar/dev/franklywebapp/app/app'
+let g:netrw_dirhist_3='/Users/tushar/dev/franklysql/franklyapi/models'
+let g:netrw_dirhist_4='/Users/tushar/.oh-my-zsh/plugins'
+let g:netrw_dirhist_5='/Users/tushar/.oh-my-zsh'
+let g:netrw_dirhist_6='/Users/tushar/dev/franklywebapp/app/scripts/controllers'
+let g:netrw_dirhist_7='/Users/tushar/.ipython'
