@@ -66,3 +66,9 @@ def enable_ohmyzsh():
     local("ln -s " + env.cwd + "/zshrc $HOME/.zshrc")
     local('sudo chsh -s /bin/zsh')
         
+@task
+def all():
+    enable_ohmyzsh()
+    enable_inputrc()
+    setup_git()
+    setup_vim()
