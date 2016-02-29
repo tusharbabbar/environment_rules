@@ -1,6 +1,3 @@
-[user]
-	email = babbartushar@gmail.com
-	name = TusharBabbar
 [alias]
     logg = log --pretty=format:'%h %an->%s' --graph
     recache = rm -r --cached .
